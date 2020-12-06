@@ -285,6 +285,30 @@ until it is done.
 <text x="46.355" y="49.149" size="0.6096" layer="21" font="vector" ratio="12" rot="R270">PWM</text>
 <text x="53.975" y="49.022" size="0.6096" layer="21" font="vector" ratio="12" rot="R270">PWM</text>
 <text x="59.055" y="49.022" size="0.6096" layer="21" font="vector" ratio="12" rot="R270">PWM</text>
+<wire x1="0" y1="52.324" x2="1.016" y2="53.34" width="0.508" layer="21" curve="-90"/>
+<wire x1="1.016" y1="53.34" x2="64.516" y2="53.34" width="0.508" layer="21"/>
+<wire x1="64.516" y1="53.34" x2="66.04" y2="51.816" width="0.508" layer="21"/>
+<wire x1="66.04" y1="51.816" x2="66.04" y2="40.386" width="0.508" layer="21"/>
+<wire x1="66.04" y1="40.386" x2="68.58" y2="37.846" width="0.508" layer="21"/>
+<wire x1="68.58" y1="37.846" x2="68.58" y2="5.08" width="0.508" layer="21"/>
+<wire x1="68.58" y1="5.08" x2="66.04" y2="2.54" width="0.508" layer="21"/>
+<wire x1="66.04" y1="2.54" x2="66.04" y2="1.016" width="0.508" layer="21"/>
+<wire x1="66.04" y1="1.016" x2="65.024" y2="0" width="0.508" layer="21" curve="-90"/>
+<wire x1="65.024" y1="0" x2="1.016" y2="0" width="0.508" layer="21"/>
+<wire x1="1.016" y1="0" x2="0" y2="1.016" width="0.508" layer="21" curve="-90"/>
+<wire x1="0" y1="1.016" x2="0" y2="52.324" width="0.508" layer="21"/>
+<wire x1="0" y1="52.324" x2="1.016" y2="53.34" width="0.508" layer="22" curve="-90"/>
+<wire x1="1.016" y1="53.34" x2="64.516" y2="53.34" width="0.508" layer="22"/>
+<wire x1="64.516" y1="53.34" x2="66.04" y2="51.816" width="0.508" layer="22"/>
+<wire x1="66.04" y1="51.816" x2="66.04" y2="40.386" width="0.508" layer="22"/>
+<wire x1="66.04" y1="40.386" x2="68.58" y2="37.846" width="0.508" layer="22"/>
+<wire x1="68.58" y1="37.846" x2="68.58" y2="5.08" width="0.508" layer="22"/>
+<wire x1="68.58" y1="5.08" x2="66.04" y2="2.54" width="0.508" layer="22"/>
+<wire x1="66.04" y1="2.54" x2="66.04" y2="1.016" width="0.508" layer="22"/>
+<wire x1="66.04" y1="1.016" x2="65.024" y2="0" width="0.508" layer="22" curve="-90"/>
+<wire x1="65.024" y1="0" x2="1.016" y2="0" width="0.508" layer="22"/>
+<wire x1="1.016" y1="0" x2="0" y2="1.016" width="0.508" layer="22" curve="-90"/>
+<wire x1="0" y1="1.016" x2="0" y2="52.324" width="0.508" layer="22"/>
 </plain>
 <libraries>
 <library name="rcl" urn="urn:adsk.eagle:library:334">
