@@ -244,19 +244,19 @@
 (c) Andriy Golovnya
 Designed in Germany
 http://redscorp.net</text>
-<text x="29.845" y="49.022" size="0.6096" layer="21" font="vector" ratio="12" rot="R270">SCK/PWM</text>
-<text x="32.385" y="49.022" size="0.6096" layer="21" font="vector" ratio="12" rot="R270">MISO/PWM</text>
-<text x="34.925" y="49.022" size="0.6096" layer="21" font="vector" ratio="12" rot="R270">MOSI/PWM</text>
-<text x="37.465" y="49.022" size="0.6096" layer="21" font="vector" ratio="12" rot="R270">SS/PWM</text>
-<text x="40.005" y="49.022" size="0.6096" layer="21" font="vector" ratio="12" rot="R270">PWM</text>
-<text x="48.895" y="49.022" size="0.6096" layer="21" font="vector" ratio="12" rot="R270">PWM</text>
-<text x="51.435" y="49.022" size="0.6096" layer="21" font="vector" ratio="12" rot="R270">PWM</text>
-<text x="56.515" y="49.022" size="0.6096" layer="21" font="vector" ratio="12" rot="R270">PWM</text>
-<text x="61.595" y="49.022" size="0.6096" layer="21" font="vector" ratio="12" rot="R270">TX</text>
-<text x="64.135" y="49.022" size="0.6096" layer="21" font="vector" ratio="12" rot="R270">RX</text>
-<text x="68.326" y="24.765" size="0.6096" layer="21" font="vector" ratio="12" rot="R90">GND</text>
-<text x="68.326" y="27.051" size="0.6096" layer="21" font="vector" ratio="12" rot="R90">MOSI</text>
-<text x="68.326" y="29.972" size="0.6096" layer="21" font="vector" ratio="12" rot="R90">5V</text>
+<text x="29.972" y="49.022" size="0.8128" layer="21" font="vector" ratio="12" rot="R270">SCK/PWM</text>
+<text x="32.512" y="49.022" size="0.8128" layer="21" font="vector" ratio="12" rot="R270">MISO/PWM</text>
+<text x="35.052" y="49.022" size="0.8128" layer="21" font="vector" ratio="12" rot="R270">MOSI/PWM</text>
+<text x="37.592" y="49.022" size="0.8128" layer="21" font="vector" ratio="12" rot="R270">SS/PWM</text>
+<text x="40.132" y="49.022" size="0.8128" layer="21" font="vector" ratio="12" rot="R270">PWM</text>
+<text x="49.022" y="49.022" size="0.8128" layer="21" font="vector" ratio="12" rot="R270">PWM</text>
+<text x="51.562" y="49.022" size="0.8128" layer="21" font="vector" ratio="12" rot="R270">PWM</text>
+<text x="56.642" y="49.022" size="0.8128" layer="21" font="vector" ratio="12" rot="R270">PWM</text>
+<text x="61.722" y="49.022" size="0.8128" layer="21" font="vector" ratio="12" rot="R270">TX</text>
+<text x="64.262" y="49.022" size="0.8128" layer="21" font="vector" ratio="12" rot="R270">RX</text>
+<text x="68.453" y="24.384" size="0.8128" layer="21" font="vector" ratio="12" rot="R90">GND</text>
+<text x="68.453" y="27.051" size="0.8128" layer="21" font="vector" ratio="12" rot="R90">MOSI</text>
+<text x="68.453" y="29.972" size="0.8128" layer="21" font="vector" ratio="12" rot="R90">5V</text>
 <text x="3.556" y="20.828" size="0.6096" layer="21" font="vector">+</text>
 <text x="3.556" y="23.368" size="0.6096" layer="21" font="vector">+</text>
 <text x="3.556" y="25.908" size="0.6096" layer="21" font="vector">+</text>
@@ -269,17 +269,17 @@ http://redscorp.net</text>
 <text x="25.4" y="22.86" size="1.27" layer="22" font="vector" ratio="16" rot="MR0">It always seems impossible
 until it is done.
     -- Nelson Mandela</text>
-<text x="61.849" y="44.069" size="0.6096" layer="21" font="vector" ratio="12" rot="R90">TX</text>
-<text x="61.849" y="41.656" size="0.6096" layer="21" font="vector" ratio="12" rot="R90">RX</text>
-<text x="61.976" y="29.591" size="0.6096" layer="21" font="vector" ratio="12" rot="R90">MISO</text>
-<text x="61.976" y="27.305" size="0.6096" layer="21" font="vector" ratio="12" rot="R90">SCK</text>
-<text x="61.976" y="24.257" size="0.6096" layer="21" font="vector" ratio="12" rot="R90">RESET</text>
+<text x="61.849" y="43.815" size="0.8128" layer="21" font="vector" ratio="12" rot="R90">TX</text>
+<text x="61.849" y="41.402" size="0.8128" layer="21" font="vector" ratio="12" rot="R90">RX</text>
+<text x="61.976" y="29.591" size="0.8128" layer="21" font="vector" ratio="12" rot="R90">MISO</text>
+<text x="61.976" y="27.305" size="0.8128" layer="21" font="vector" ratio="12" rot="R90">SCK</text>
+<text x="61.976" y="23.749" size="0.8128" layer="21" font="vector" ratio="12" rot="R90">RESET</text>
 <text x="63.627" y="13.335" size="1.016" layer="21" font="vector" ratio="12">SWD</text>
 <text x="61.976" y="39.243" size="1.016" layer="21" font="vector" ratio="12">UART</text>
-<text x="42.545" y="49.022" size="0.6096" layer="21" font="vector" ratio="12" rot="R270">PWM</text>
-<text x="46.355" y="49.149" size="0.6096" layer="21" font="vector" ratio="12" rot="R270">PWM</text>
-<text x="53.975" y="49.022" size="0.6096" layer="21" font="vector" ratio="12" rot="R270">PWM</text>
-<text x="59.055" y="49.022" size="0.6096" layer="21" font="vector" ratio="12" rot="R270">PWM</text>
+<text x="42.672" y="49.022" size="0.8128" layer="21" font="vector" ratio="12" rot="R270">PWM</text>
+<text x="46.482" y="49.149" size="0.8128" layer="21" font="vector" ratio="12" rot="R270">PWM</text>
+<text x="54.102" y="49.022" size="0.8128" layer="21" font="vector" ratio="12" rot="R270">PWM</text>
+<text x="59.182" y="49.022" size="0.8128" layer="21" font="vector" ratio="12" rot="R270">PWM</text>
 <wire x1="0" y1="52.324" x2="1.016" y2="53.34" width="0.508" layer="21" curve="-90"/>
 <wire x1="1.016" y1="53.34" x2="64.516" y2="53.34" width="0.508" layer="21"/>
 <wire x1="64.516" y1="53.34" x2="66.04" y2="51.816" width="0.508" layer="21"/>
