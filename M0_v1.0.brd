@@ -3,7 +3,7 @@
 <eagle version="9.6.2">
 <drawing>
 <settings>
-<setting alwaysvectorfont="yes"/>
+<setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
 <grid distance="5" unitdist="mil" unit="mil" style="lines" multiple="1" display="no" altdistance="1" altunitdist="mil" altunit="mil"/>
@@ -13993,12 +13993,6 @@ design rules under a new name.</description>
 <attribute name="SPICEPREFIX" value="R" x="16.383" y="29.591" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="VALUE" x="15.494" y="27.305" size="0.6096" layer="27" font="vector"/>
 </element>
-<element name="R13" library="rcl" library_urn="urn:adsk.eagle:library:334" package="R0402" package3d_urn="urn:adsk.eagle:package:23547/3" value="47K" x="13.97" y="24.638" smashed="yes" rot="R90">
-<attribute name="NAME" x="11.938" y="24.765" size="0.6096" layer="27" font="vector"/>
-<attribute name="POPULARITY" value="0" x="13.97" y="24.638" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="SPICEPREFIX" value="R" x="13.97" y="24.638" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="VALUE" x="11.811" y="24.003" size="0.6096" layer="27" font="vector"/>
-</element>
 <element name="U2" library="SparkFun-IC-Microcontroller" library_urn="urn:adsk.eagle:library:525" package="QFN-48" package3d_urn="urn:adsk.eagle:package:38962/1" value="ATSAMD21G18A-MU" x="49.315" y="33.0318" smashed="yes" rot="R135">
 <attribute name="NAME" x="48.955790625" y="38.7791625" size="0.6096" layer="27" font="vector" rot="R315"/>
 <attribute name="PROD_ID" value="IC-13064" x="47.0699375" y="16.059115625" size="1.778" layer="27" rot="R135" display="off"/>
@@ -14499,8 +14493,6 @@ design rules under a new name.</description>
 <wire x1="19.555" y1="12.434" x2="20.305" y2="11.684" width="0.8128" layer="1"/>
 <wire x1="38.1" y1="2.54" x2="37.846" y2="2.794" width="0.8128" layer="16"/>
 <wire x1="37.846" y1="2.794" x2="37.846" y2="13.6652" width="0.8128" layer="16"/>
-<contactref element="R13" pad="1"/>
-<wire x1="13.97" y1="24.138" x2="13.97" y2="22.962" width="0.3048" layer="1"/>
 <wire x1="14.732" y1="22.2" x2="15.367" y2="22.2" width="0.3048" layer="1"/>
 <wire x1="14.732" y1="22.2" x2="13.97" y2="22.962" width="0.3048" layer="1"/>
 <wire x1="39.63825625" y1="0.9144" x2="38.1" y2="2.45265625" width="0.8128" layer="16"/>
@@ -14728,14 +14720,11 @@ design rules under a new name.</description>
 <wire x1="13.962" y1="27.559" x2="13.962" y2="26.416" width="0.3048" layer="1"/>
 <contactref element="IC3" pad="4"/>
 <contactref element="T1" pad="1"/>
-<contactref element="R13" pad="2"/>
 <wire x1="13.962" y1="27.559" x2="13.962" y2="28.734" width="0.3048" layer="1"/>
 <wire x1="13.962" y1="28.734" x2="13.955" y2="28.741" width="0.3048" layer="1"/>
-<wire x1="13.962" y1="26.416" x2="13.97" y2="26.408" width="0.3048" layer="1"/>
-<wire x1="13.97" y1="26.408" x2="13.97" y2="25.138" width="0.3048" layer="1"/>
-<wire x1="13.97" y1="25.138" x2="14.097" y2="25.011" width="0.3048" layer="1"/>
-<wire x1="14.849" y1="25.011" x2="14.097" y2="25.011" width="0.3048" layer="1"/>
-<wire x1="14.849" y1="25.011" x2="15.433" y2="24.427" width="0.3048" layer="1"/>
+<wire x1="13.97" y1="26.408" x2="13.962" y2="26.416" width="0.3048" layer="1"/>
+<wire x1="13.97" y1="25.89" x2="13.97" y2="26.408" width="0.3048" layer="1"/>
+<wire x1="15.433" y1="24.427" x2="13.97" y2="25.89" width="0.3048" layer="1"/>
 </signal>
 <signal name="MCU_OSC32_IN">
 <contactref element="Q2" pad="3"/>
@@ -15531,6 +15520,30 @@ design rules under a new name.</description>
 <approved hash="5,1,4752971ba958d364"/>
 <approved hash="5,1,6cfb72cab9923c6d"/>
 <approved hash="23,1,9a0b0365003a9954"/>
+<approved hash="23,1,6c1f7bcec00f84a5"/>
+<approved hash="23,1,5047fea1fe9d507b"/>
+<approved hash="23,1,1de33a053c801b66"/>
+<approved hash="23,1,0ece03dc023b0f29"/>
+<approved hash="23,1,dc5cdcbadd03dde5"/>
+<approved hash="23,1,4a9596071e1bf2ea"/>
+<approved hash="23,1,723db73a82c796e0"/>
+<approved hash="23,1,6edc47ba47f86e9e"/>
+<approved hash="23,1,f85b05bd050cf8ea"/>
+<approved hash="23,1,f1c118271899f17f"/>
+<approved hash="23,1,52618107bdb06ed6"/>
+<approved hash="23,1,848348fcf0c12cba"/>
+<approved hash="23,1,d4d85d44c8cc6362"/>
+<approved hash="23,1,5be7460146955b73"/>
+<approved hash="23,1,087c199a1e030fe5"/>
+<approved hash="23,1,e86347854700e8e6"/>
+<approved hash="23,16,dd2202c40118defe"/>
+<approved hash="23,16,c0ec3d8a3d82c0e4"/>
+<approved hash="23,16,e3e787818614e272"/>
+<approved hash="23,16,e4e10a070b91e577"/>
+<approved hash="23,16,558a2e982ebe55ac"/>
+<approved hash="23,16,76e7068106147672"/>
+<approved hash="23,16,8ee58383838c8eea"/>
+<approved hash="23,16,64fa0a1c0a3364d5"/>
 </errors>
 </board>
 </drawing>
