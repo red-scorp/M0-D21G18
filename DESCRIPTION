@@ -2,7 +2,7 @@
 Features:
 <ul>
 <li>Leonardo compatible board pinout</li>
-<li>Leonardo compatible MCU SAMD21D21G18</li>
+<li>Leonardo compatible MCU SAMD21D21G18A</li>
 <li>2 layer board design</li>
 <li>alternative footprints for MCU: TQFP and QFN</li>
 <li>modern microUSB connector</li>

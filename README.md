@@ -16,7 +16,7 @@ Preview:
 Features:
 
 - M0 compatible board pinout
-- M0 compatible MCU SAMD21D21G18
+- M0 compatible MCU SAMD21D21G18A
 - 2 layer board design
 - alternative footprints for MCU: TQFP and QFN
 - modern microUSB connector
