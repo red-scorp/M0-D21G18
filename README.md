@@ -9,9 +9,9 @@ Main goal of the project is to improve EMC property of original board keeping it
 
 Preview:
 
-![M0_v1.0 preview](M0_v1.0.png)
+![M0_v1.0 preview](img/M0_v1.0.png)
 
-[Schematics in PDF format](M0_v1.0.pdf)
+[Schematics in PDF format](doc/M0_v1.0.pdf)
 
 Features:
 
