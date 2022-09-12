@@ -1,8 +1,8 @@
 <b>M0_v1.0</b> is version 1.0 of the board based on SAMD21D21G18A as MCU.<br/>
 Features:
 <ul>
-<li>Leonardo compatible board pinout</li>
-<li>Leonardo compatible MCU SAMD21D21G18A</li>
+<li>M0 compatible board pinout</li>
+<li>M0 compatible MCU SAMD21D21G18A</li>
 <li>2 layer board design</li>
 <li>alternative footprints for MCU: TQFP and QFN</li>
 <li>modern microUSB connector</li>
